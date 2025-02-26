@@ -1,1 +1,1 @@
-FROM tugraph/tugraph-db-osgraph:4.4.0
+FROM registry.k8s.io/coredns/coredns:v1.11.1
