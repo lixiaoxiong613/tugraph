@@ -1,0 +1,1 @@
+FROM tugraph/tugraph-db-osgraph:4.4.0
